@@ -16,7 +16,7 @@ year          : 2022
   <html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
     <script>
-        window.location.href = &quot;https://t.co/1velIeZFiU&quot;;
+        window.location.href = &quot;https://t.co/oppzfLw8KTquot;;
     </script>
 </head>
 </html>
